@@ -14,12 +14,12 @@ The single functions contain the algorithms to actually compute the similarity b
   
   
 ## How to cite:
-@InProceedings{Marchello_cluster,
-  author = {Marchello, Gabriele},
-  title = {Image clustering},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/GabrieleMarchello/Image-clustering}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+@InProceedings{Marchello_cluster,  
+  author = {Marchello, Gabriele},  
+  title = {Image clustering},  
+  year = {2020},  
+  publisher = {GitHub},  
+  journal = {GitHub repository},  
+  howpublished = {\url{https://github.com/GabrieleMarchello/Image-clustering/blob/master/README.md}},  
+  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}  
 }
