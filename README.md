@@ -14,6 +14,7 @@ The single functions contain the algorithms to actually compute the similarity b
   
   
 ## How to cite:
+```ruby
 @InProceedings{Marchello_cluster,  
   author = {Marchello, Gabriele},  
   title = {Image clustering},  
@@ -22,3 +23,4 @@ The single functions contain the algorithms to actually compute the similarity b
   journal = {GitHub repository},  
   howpublished = {\url{https://github.com/GabrieleMarchello/Image-clustering }}  
 }
+```
