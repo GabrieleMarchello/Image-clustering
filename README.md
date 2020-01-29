@@ -11,3 +11,15 @@ In order to pool the images in classes according to similarity, it is possible t
 # Implementation
 The algorithm is written in Matlab and receives the images in input, which are later converted into a 3D matrix. Then, all the images are converted into black and white and normalised. Then, the functions modelling the three different similarity algorithms are called, receiving in input the stack, the threshold value and producing in output the similarity matrix.
 The single functions contain the algorithms to actually compute the similarity between two images and have a few variables to be tuned by the user.
+  
+  
+## How to cite:
+@InProceedings{Marchello_cluster,
+  author = {Marchello, Gabriele},
+  title = {Image clustering},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/GabrieleMarchello/Image-clustering}},
+  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+}
