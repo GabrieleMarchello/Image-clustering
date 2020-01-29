@@ -20,5 +20,5 @@ The single functions contain the algorithms to actually compute the similarity b
   year = {2020},  
   publisher = {GitHub},  
   journal = {GitHub repository},  
-  howpublished = {\url{https://github.com/GabrieleMarchello/Image-clustering}}
+  howpublished = {\url{https://github.com/GabrieleMarchello/Image-clustering }}  
 }
